@@ -1,0 +1,26 @@
+_repo: The-Theory-and-Practice-of-Model-Aeroplaning_41135
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Johnson, V. E. (Valentine Edward)
+    alias: Johnson, Valentine Edward
+    gutenberg_agent_id: '40998'
+    url: http://www.gutenberg.org/2009/agents/40998
+description: ''
+gutenberg_issued: '2012-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41135'
+  lccn: a11001498
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TL'
+- !lcsh 'Airplanes -- Models'
+title: The Theory and Practice of Model Aeroplaning
+url: http://www.gutenberg.org/ebooks/41135
